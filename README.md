@@ -1,80 +1,56 @@
-````markdown
-<!-- ============================================================= -->
-<!--                    HABEEB UR RAHIM KHAN                     -->
-<!-- ============================================================= -->
+# HABEEB UR RAHIM KHAN
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3500&pause=1200&color=00FF9C&center=true&vCenter=true&width=900&height=80&lines=HABEEB+UR+RAHIM+KHAN" alt="Habeeb Ur Rahim Khan" />
+  <img src="./assets/habeeb-hacker-header.gif" alt="Habeeb Ur Rahim Khan - animated hacker header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=%3E+AI%2FML+ENGINEER;%3E+FULL-STACK+DEVELOPER;%3E+SOFTWARE+BUILDER;%3E+AI+%7C+ML+%7C+CLOUD+%7C+SYSTEMS" alt="Developer Identity" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="85%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=600&color=00FF9C&center=true&vCenter=true&width=750&height=40&lines=%5B+SYSTEM+ONLINE+%5D;%5B+INITIALIZING+DEVELOPER+PROFILE...+%5D;%5B+LOADING+TECH+STACK...+%5D;%5B+BUILDING+SOMETHING+NEW...+%5D" alt="System Animation" />
+  <strong>AI/ML Engineer · Full-Stack Developer · Builder</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/habeeburrahimkhan">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" />
+    <img src="https://img.shields.io/badge/GitHub-habeeburrahimkhan-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />
   </a>
   <a href="https://www.instagram.com/habeeburrahimkhan/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-habeeburrahimkhan-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="mailto:habeebrahimkhan@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-habeebrahimkhan%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habeeburrahimkhan&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" />
+  <code>AI</code> <code>ML</code> <code>FULL-STACK</code> <code>CLOUD</code> <code>SYSTEMS</code>
 </p>
-
-<br>
 
 ---
 
 ## `> whoami`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=00FF9C&center=true&vCenter=true&width=700&height=40&lines=%24+whoami;%3E+AI%2FML+ENGINEER+%2B+FULL-STACK+DEVELOPER;%3E+BUILDING+INTELLIGENT+SYSTEMS;%3E+BUILDING+SCALABLE+SOFTWARE" alt="Whoami" />
-</p>
-
 ```text
 ┌──────────────────────────────────────────────────────────────┐
+│ $ whoami                                                     │
 │                                                              │
-│   HABEEB UR RAHIM KHAN                                      │
+│ HABEEB UR RAHIM KHAN                                         │
+│ AI/ML ENGINEER  •  FULL-STACK DEVELOPER  •  BUILDER          │
 │                                                              │
-│   AI/ML Engineer • Full-Stack Developer • Builder           │
+│ Building intelligent systems and scalable software.          │
+│ Turning ideas → architecture → code → deployment.             │
 │                                                              │
-│   Artificial Intelligence                                  │
-│   Machine Learning                                          │
-│   Full-Stack Engineering                                    │
-│   Cloud & Systems                                           │
-│                                                              │
+│ STATUS: BUILDING                                             │
 └──────────────────────────────────────────────────────────────┘
-````
-
-I build software at the intersection of **Artificial Intelligence, Machine Learning, Full-Stack Engineering, and Cloud**.
-
-I enjoy taking ideas from **concept → architecture → implementation → deployment** and turning them into working systems.
-
-```text
-BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 ```
+
+I build software at the intersection of **Artificial Intelligence, Machine Learning, Full-Stack Engineering, Cloud, and Systems**.
+
+My interests span intelligent applications, modern web architecture, APIs, databases, machine-learning pipelines, real-time systems, secure software, and cloud infrastructure.
+
+`BUILD → BREAK → LEARN → REBUILD → SHIP`
 
 ---
 
 ## `> tech_stack`
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=%24+cat+%2Fetc%2Ftech-stack;%3E+LOADING+TECHNOLOGIES...;%3E+STACK+INITIALIZED" alt="Tech Stack Loading" />
-</p>
 
 ### `LANGUAGES`
 
@@ -83,12 +59,7 @@ BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 </p>
 
 <p align="center">
-  <code>Python</code>
-  <code>Java</code>
-  <code>JavaScript</code>
-  <code>TypeScript</code>
-  <code>Dart</code>
-  <code>Go</code>
+  <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>TypeScript</code> <code>Dart</code> <code>Go</code>
 </p>
 
 ### `FRONTEND`
@@ -98,13 +69,7 @@ BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 </p>
 
 <p align="center">
-  <code>HTML</code>
-  <code>CSS</code>
-  <code>React</code>
-  <code>Next.js</code>
-  <code>Tailwind CSS</code>
-  <code>Redux</code>
-  <code>React Query</code>
+  <code>HTML</code> <code>CSS</code> <code>React</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>Redux</code> <code>React Query</code>
 </p>
 
 ### `BACKEND`
@@ -114,14 +79,7 @@ BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 </p>
 
 <p align="center">
-  <code>Node.js</code>
-  <code>Express</code>
-  <code>Flask</code>
-  <code>WebSocket</code>
-  <code>WebRTC</code>
-  <code>Mediasoup</code>
-  <code>GraphQL</code>
-  <code>Strapi</code>
+  <code>Node.js</code> <code>Express</code> <code>Flask</code> <code>WebSocket</code> <code>WebRTC</code> <code>Mediasoup</code> <code>GraphQL</code> <code>Strapi</code>
 </p>
 
 ### `AI / MACHINE LEARNING`
@@ -131,29 +89,17 @@ BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 </p>
 
 <p align="center">
-  <code>TensorFlow</code>
-  <code>PyTorch</code>
-  <code>scikit-learn</code>
-  <code>OpenCV</code>
-  <code>NLP</code>
-  <code>PennyLane</code>
-  <code>Groq API</code>
-  <code>Llama 3.1</code>
-  <code>Gemini API</code>
+  <code>TensorFlow</code> <code>PyTorch</code> <code>scikit-learn</code> <code>OpenCV</code> <code>NLP</code> <code>PennyLane</code> <code>Groq API</code> <code>Llama 3.1</code> <code>Gemini API</code>
 </p>
 
 ### `DATABASES`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase" />
 </p>
 
 <p align="center">
-  <code>MongoDB</code>
-  <code>MySQL</code>
-  <code>PostgreSQL</code>
-  <code>Supabase</code>
-  <code>Firebase</code>
+  <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Firebase</code>
 </p>
 
 ### `CLOUD / DEVOPS`
@@ -163,18 +109,7 @@ BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 </p>
 
 <p align="center">
-  <code>AWS</code>
-  <code>EC2</code>
-  <code>RDS</code>
-  <code>S3</code>
-  <code>Lambda</code>
-  <code>Google Cloud</code>
-  <code>Docker</code>
-  <code>Kubernetes</code>
-  <code>Prometheus</code>
-  <code>Grafana</code>
-  <code>Vercel</code>
-  <code>Netlify</code>
+  <code>AWS</code> <code>EC2</code> <code>RDS</code> <code>S3</code> <code>Lambda</code> <code>Google Cloud</code> <code>Docker</code> <code>Kubernetes</code> <code>Prometheus</code> <code>Grafana</code> <code>Vercel</code> <code>Netlify</code>
 </p>
 
 ### `TOOLS / PLATFORMS`
@@ -184,34 +119,29 @@ BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 </p>
 
 <p align="center">
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>VS Code</code>
-  <code>Supabase</code>
-  <code>Firebase</code>
+  <code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Firebase</code> <code>Supabase</code>
 </p>
 
 ---
 
-## `> engineering`
+## `> engineering_domains`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2300&pause=700&color=00FF9C&center=true&vCenter=true&width=800&height=45&lines=ARTIFICIAL+INTELLIGENCE;%E2%86%93;MACHINE+LEARNING;%E2%86%93;FULL-STACK+ENGINEERING;%E2%86%93;CLOUD+%26+DEVOPS;%E2%86%93;REAL-TIME+SYSTEMS;%E2%86%93;SECURE+SOFTWARE;%E2%86%93;SCALABLE+BACKENDS" alt="Engineering Stack" />
-</p>
+```text
+[01] ARTIFICIAL INTELLIGENCE
+[02] MACHINE LEARNING
+[03] FULL-STACK ENGINEERING
+[04] CLOUD & DEVOPS
+[05] REAL-TIME SYSTEMS
+[06] SECURE SOFTWARE
+[07] SCALABLE BACKEND SYSTEMS
+```
 
 ---
 
 ## `> github`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1900&pause=700&color=00FF9C&center=true&vCenter=true&width=650&height=40&lines=%24+git+status;%3E+TRACKING+DEVELOPMENT+ACTIVITY...;%3E+ANALYZING+REPOSITORIES...;%3E+SYSTEM+ACTIVE" alt="Git Status" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=habeeburrahimkhan&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=habeeburrahimkhan&theme=github-dark" alt="GitHub Statistics" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=habeeburrahimkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
@@ -226,55 +156,46 @@ BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
   <img src="https://ghchart.rshah.org/00ff9c/habeeburrahimkhan" alt="GitHub Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2400&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=35&lines=CONTRIBUTION+IS+A+BY-PRODUCT+OF+BUILDING." alt="Contribution" />
-</p>
-
 ---
 
 ## `> portfolio`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=900&color=00FF9C&center=true&vCenter=true&width=750&height=45&lines=%5B+PORTFOLIO+SYSTEM+%5D;%3E+PROJECTS;%3E+CASE+STUDIES;%3E+EXPERIMENTS;%3E+COMING+SOON..." alt="Portfolio" />
+  <code>PORTFOLIO: COMING SOON</code>
 </p>
 
 <p align="center">
-  <i>A dedicated portfolio is currently being built.</i>
+  <i>Projects, case studies, experiments, and technical deep-dives will live here.</i>
 </p>
 
-<!-- Replace the section above with your portfolio link when ready. -->
+<!-- Add your portfolio URL here when it is ready. -->
 
 ---
 
 ## `> connect`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=900&color=00FF9C&center=true&vCenter=true&width=700&height=40&lines=%24+./connect;%3E+ESTABLISHING+CONNECTION...;%3E+CHANNELS+AVAILABLE" alt="Connect" />
-</p>
-
-<p align="center">
   <a href="https://github.com/habeeburrahimkhan">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" />
   </a>
   <a href="https://www.instagram.com/habeeburrahimkhan/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="mailto:habeebrahimkhan@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
 <p align="center">
-  <i>Open to interesting ideas, technical collaborations, and building cool things.</i>
+  <code>OPEN TO IDEAS · COLLABORATION · BUILDING</code>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=800&height=45&lines=%3E+BUILD;%3E+BREAK;%3E+LEARN;%3E+REBUILD;%3E+SHIP" alt="Build Ship Loop" />
+  <code>01001000 01000001 01000010 01000101 01000101 01000010</code>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,35:161B22,70:0D1117,100:050505&height=120&section=footer" />
+  <strong>BUILD → BREAK → LEARN → REBUILD → SHIP</strong>
 </p>
-```
