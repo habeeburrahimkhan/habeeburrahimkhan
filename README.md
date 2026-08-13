@@ -1,7 +1,9 @@
 # HABEEB UR RAHIM KHAN
 
 <p align="center">
-  <img src="./assets/habeeb-hacker-header.gif" alt="Habeeb Ur Rahim Khan - animated hacker header" width="100%" />
+  <img src="./assets/habeeb-hacker-header-v2.gif"
+       alt="Habeeb Ur Rahim Khan"
+       width="100%" />
 </p>
 
 <p align="center">
