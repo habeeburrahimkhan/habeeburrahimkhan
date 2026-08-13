@@ -1,141 +1,125 @@
-
-
-<p align="center">
-  <img src="./assets/habeeb-hacker-header-v2.gif"
-       alt="Habeeb Ur Rahim Khan"
-       width="100%" />
-</p>
+<!-- HABEEB UR RAHIM KHAN | GitHub Profile -->
 
 <p align="center">
-  <strong>AI/ML Engineer · Full-Stack Developer · Builder</strong>
+  <img src="./assets/hero.gif" alt="Animated terminal header for Habeeb Ur Rahim Khan" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/habeeburrahimkhan">
-    <img src="https://img.shields.io/badge/GitHub-habeeburrahimkhan-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" />
   </a>
   <a href="https://www.instagram.com/habeeburrahimkhan/">
-    <img src="https://img.shields.io/badge/Instagram-habeeburrahimkhan-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="mailto:habeebrahimkhan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-habeebrahimkhan%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
 <p align="center">
-  <code>AI</code> <code>ML</code> <code>FULL-STACK</code> <code>CLOUD</code> <code>SYSTEMS</code>
+  <code>ARTIFICIAL INTELLIGENCE</code> &nbsp; <code>MACHINE LEARNING</code> &nbsp; <code>FULL-STACK</code> &nbsp; <code>CLOUD</code>
 </p>
 
 ---
 
-## `> whoami`
+## `> about`
+
+<p align="center">
+  <img src="./assets/terminal.gif" alt="Animated terminal profile" width="100%" />
+</p>
+
+I build software at the intersection of **AI/ML and modern software engineering**.
+
+My work spans intelligent applications, full-stack systems, APIs, databases, real-time communication, machine-learning pipelines, cloud infrastructure, and secure software.
+
+I care about taking an idea beyond a prototype — **design it, build it, test it, deploy it, and keep improving it.**
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│ $ whoami                                                     │
-│                                                              │
-│ HABEEB UR RAHIM KHAN                                         │
-│ AI/ML ENGINEER  •  FULL-STACK DEVELOPER  •  BUILDER          │
-│                                                              │
-│ Building intelligent systems and scalable software.          │
-│ Turning ideas → architecture → code → deployment.             │
-│                                                              │
-│ STATUS: BUILDING                                             │
-└──────────────────────────────────────────────────────────────┘
+BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 ```
-
-I build software at the intersection of **Artificial Intelligence, Machine Learning, Full-Stack Engineering, Cloud, and Systems**.
-
-My interests span intelligent applications, modern web architecture, APIs, databases, machine-learning pipelines, real-time systems, secure software, and cloud infrastructure.
-
-`BUILD → BREAK → LEARN → REBUILD → SHIP`
 
 ---
 
-## `> tech_stack`
+## `> stack`
 
-### `LANGUAGES`
-
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,go" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,go&perline=6" />
 </p>
 
 <p align="center">
   <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>TypeScript</code> <code>Dart</code> <code>Go</code>
 </p>
 
-### `FRONTEND`
-
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&perline=6" />
 </p>
 
 <p align="center">
   <code>HTML</code> <code>CSS</code> <code>React</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>Redux</code> <code>React Query</code>
 </p>
 
-### `BACKEND`
-
+### Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql&perline=4" />
 </p>
 
 <p align="center">
-  <code>Node.js</code> <code>Express</code> <code>Flask</code> <code>WebSocket</code> <code>WebRTC</code> <code>Mediasoup</code> <code>GraphQL</code> <code>Strapi</code>
+  <code>Node.js</code> <code>Express</code> <code>Flask</code> <code>GraphQL</code> <code>WebSocket</code> <code>WebRTC</code> <code>Mediasoup</code> <code>Strapi</code>
 </p>
 
-### `AI / MACHINE LEARNING`
-
+### AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" />
 </p>
 
 <p align="center">
   <code>TensorFlow</code> <code>PyTorch</code> <code>scikit-learn</code> <code>OpenCV</code> <code>NLP</code> <code>PennyLane</code> <code>Groq API</code> <code>Llama 3.1</code> <code>Gemini API</code>
 </p>
 
-### `DATABASES`
-
+### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase&perline=5" />
 </p>
 
 <p align="center">
   <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Firebase</code>
 </p>
 
-### `CLOUD / DEVOPS`
-
+### Cloud / DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,prometheus,grafana,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,prometheus,grafana,vercel,netlify&perline=8" />
 </p>
 
 <p align="center">
   <code>AWS</code> <code>EC2</code> <code>RDS</code> <code>S3</code> <code>Lambda</code> <code>Google Cloud</code> <code>Docker</code> <code>Kubernetes</code> <code>Prometheus</code> <code>Grafana</code> <code>Vercel</code> <code>Netlify</code>
 </p>
 
-### `TOOLS / PLATFORMS`
-
+### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 </p>
 
 <p align="center">
-  <code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Firebase</code> <code>Supabase</code>
+  <code>Git</code> <code>GitHub</code> <code>VS Code</code>
 </p>
 
 ---
 
-## `> engineering_domains`
+## `> domains`
 
 ```text
-[01] ARTIFICIAL INTELLIGENCE
-[02] MACHINE LEARNING
-[03] FULL-STACK ENGINEERING
-[04] CLOUD & DEVOPS
-[05] REAL-TIME SYSTEMS
-[06] SECURE SOFTWARE
-[07] SCALABLE BACKEND SYSTEMS
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  AI / ML                  ████████████████████████           │
+│  Full-Stack               █████████████████████████          │
+│  Cloud / DevOps           ███████████████████                │
+│  Backend Systems          ████████████████████               │
+│  Real-Time Systems        █████████████████                  │
+│  Secure Software          ███████████████                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -143,11 +127,11 @@ My interests span intelligent applications, modern web architecture, APIs, datab
 ## `> github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habeeburrahimkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=habeeburrahimkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habeeburrahimkhan&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habeeburrahimkhan&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -155,22 +139,26 @@ My interests span intelligent applications, modern web architecture, APIs, datab
 ## `> contribution_matrix`
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff9c/habeeburrahimkhan" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00ff9c/habeeburrahimkhan" alt="GitHub contribution graph" />
 </p>
 
 ---
 
 ## `> portfolio`
 
-<p align="center">
-  <code>PORTFOLIO: COMING SOON</code>
-</p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  PORTFOLIO                                                   │
+│                                                              │
+│  STATUS : IN DEVELOPMENT                                     │
+│                                                              │
+│  Projects • Case Studies • Experiments • Technical Work      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <i>Projects, case studies, experiments, and technical deep-dives will live here.</i>
-</p>
-
-<!-- Add your portfolio URL here when it is ready. -->
+**Portfolio link will be added here when the site is ready.**
 
 ---
 
@@ -178,26 +166,22 @@ My interests span intelligent applications, modern web architecture, APIs, datab
 
 <p align="center">
   <a href="https://github.com/habeeburrahimkhan">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" />
+    <img src="https://img.shields.io/badge/GitHub-habeeburrahimkhan-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" />
   </a>
   <a href="https://www.instagram.com/habeeburrahimkhan/">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-habeeburrahimkhan-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="mailto:habeebrahimkhan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-habeebrahimkhan%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
 <p align="center">
-  <code>OPEN TO IDEAS · COLLABORATION · BUILDING</code>
+  <i>Open to interesting ideas, technical collaborations, and building things that matter.</i>
 </p>
 
 ---
 
 <p align="center">
-  <code>01001000 01000001 01000010 01000101 01000101 01000010</code>
-</p>
-
-<p align="center">
-  <strong>BUILD → BREAK → LEARN → REBUILD → SHIP</strong>
+  <img src="./assets/footer.gif" alt="Animated build terminal" width="100%" />
 </p>
