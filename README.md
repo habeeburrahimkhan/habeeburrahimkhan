@@ -107,21 +107,6 @@ BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 
 ---
 
-## `> domains`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  AI / ML                  ████████████████████████           │
-│  Full-Stack               █████████████████████████          │
-│  Cloud / DevOps           ███████████████████                │
-│  Backend Systems          ████████████████████               │
-│  Real-Time Systems        █████████████████                  │
-│  Secure Software          ███████████████                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## `> github`
@@ -141,24 +126,6 @@ BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
 <p align="center">
   <img src="https://ghchart.rshah.org/00ff9c/habeeburrahimkhan" alt="GitHub contribution graph" />
 </p>
-
----
-
-## `> portfolio`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  PORTFOLIO                                                   │
-│                                                              │
-│  STATUS : IN DEVELOPMENT                                     │
-│                                                              │
-│  Projects • Case Studies • Experiments • Technical Work      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**Portfolio link will be added here when the site is ready.**
 
 ---
 
