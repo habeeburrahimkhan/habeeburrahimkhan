@@ -34,9 +34,6 @@ My work spans intelligent applications, full-stack systems, APIs, databases, rea
 
 I care about taking an idea beyond a prototype — **design it, build it, test it, deploy it, and keep improving it.**
 
-```text
-BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
-```
 
 ---
 
