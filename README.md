@@ -104,28 +104,6 @@ I care about taking an idea beyond a prototype — **design it, build it, test i
 
 ---
 
----
-
-## `> github`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habeeburrahimkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habeeburrahimkhan&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
----
-
-## `> contribution_matrix`
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00ff9c/habeeburrahimkhan" alt="GitHub contribution graph" />
-</p>
-
----
-
 ## `> connect`
 
 <p align="center">
